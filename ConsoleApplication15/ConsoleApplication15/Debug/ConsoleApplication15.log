@@ -1,0 +1,17 @@
+﻿生成启动时间为 2017/3/6 16:22:35。
+     1>项目“D:\C++ workspace\ConsoleApplication15\ConsoleApplication15\ConsoleApplication15.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\ConsoleApplication15.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt ConsoleApplication15.cpp
+         ConsoleApplication15.cpp
+     1>d:\c++ workspace\consoleapplication15\consoleapplication15\consoleapplication15.cpp(47): error C2535: “String &String::copy(const char *)”: 已经定义或声明成员函数
+         d:\c++ workspace\consoleapplication15\consoleapplication15\consoleapplication15.cpp(39): note: 参见“String::copy”的声明
+     1>d:\c++ workspace\consoleapplication15\consoleapplication15\consoleapplication15.cpp(31): warning C4018: “>=”: 有符号/无符号不匹配
+     1>d:\c++ workspace\consoleapplication15\consoleapplication15\consoleapplication15.cpp(48): error C2065: “s”: 未声明的标识符
+     1>d:\c++ workspace\consoleapplication15\consoleapplication15\consoleapplication15.cpp(48): error C2228: “.str”的左边必须有类/结构/联合
+         d:\c++ workspace\consoleapplication15\consoleapplication15\consoleapplication15.cpp(48): note: 类型是“unknown-type”
+     1>d:\c++ workspace\consoleapplication15\consoleapplication15\consoleapplication15.cpp(57): error C3867: “String::get_str”: 非标准语法；请使用 "&" 来创建指向成员的指针
+     1>已完成生成项目“D:\C++ workspace\ConsoleApplication15\ConsoleApplication15\ConsoleApplication15.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.36
