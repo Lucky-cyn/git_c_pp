@@ -1,0 +1,14 @@
+﻿生成启动时间为 2017/3/6 21:16:46。
+     1>项目“D:\C++ workspace\er_yi_xing\er_yi_xing\er_yi_xing.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\er_yi_xing.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt er_yi_xing.cpp
+         er_yi_xing.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\C++ workspace\er_yi_xing\Debug\er_yi_xing.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\C++ workspace\er_yi_xing\Debug\er_yi_xing.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\C++ workspace\er_yi_xing\Debug\er_yi_xing.lib" /MACHINE:X86 Debug\er_yi_xing.obj
+         Debug\stdafx.obj
+         er_yi_xing.vcxproj -> D:\C++ workspace\er_yi_xing\Debug\er_yi_xing.exe
+     1>已完成生成项目“D:\C++ workspace\er_yi_xing\er_yi_xing\er_yi_xing.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:00.75
